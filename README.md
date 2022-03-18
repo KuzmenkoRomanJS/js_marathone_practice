@@ -1,2 +1,2 @@
-# js_maraphone_practice
-5 day js maraphone practice
+# js_marathone_practice
+5 day js marathone practice
