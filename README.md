@@ -7,6 +7,6 @@
 <br />
 <em>Day 3</em>. <u>Photo slider</u>
 <br />
-<em>Day 4</em>. <u>Own mini-game</u>
+<em>Day 4</em>. <u>Own mini-game 'HoverBoard'</u>
 <br />
 <em>Day 5</em>. <u>Updating...</u>
