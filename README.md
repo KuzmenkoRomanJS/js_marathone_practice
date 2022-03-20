@@ -1,2 +1,3 @@
 # js_marathone_practice
-5 day js marathone practice
+<strong>5 day js marathone with practice</strong>
+<em>Day #1</em>.<u>Photo carousel widget</u>
