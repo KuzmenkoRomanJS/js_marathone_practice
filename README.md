@@ -9,4 +9,4 @@
 <br />
 <em>Day 4</em>. <u>Own mini-game 'HoverBoard'</u>
 <br />
-<em>Day 5</em>. <u>Updating...</u>
+<em>Day 5</em>. <u>AIM Game</u>
